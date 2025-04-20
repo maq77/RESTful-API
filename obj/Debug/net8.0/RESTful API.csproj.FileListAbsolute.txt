@@ -1,0 +1,172 @@
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\RESTful API.csproj.AssemblyReference.cache
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\RESTful API.GeneratedMSBuildEditorConfig.editorconfig
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\RESTful API.AssemblyInfoInputs.cache
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\RESTful API.AssemblyInfo.cs
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\RESTful API.csproj.CoreCompileInputs.cache
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\RESTful API.MvcApplicationPartsAssemblyInfo.cs
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\RESTful API.MvcApplicationPartsAssemblyInfo.cache
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\appsettings.Development.json
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\appsettings.json
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\RESTful API.staticwebassets.endpoints.json
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\RESTful API.exe
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\RESTful API.deps.json
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\RESTful API.runtimeconfig.json
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\RESTful API.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\RESTful API.pdb
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Azure.Core.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Azure.Identity.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Humanizer.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Mono.TextTemplating.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.ClientModel.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.CodeDom.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.Composition.Convention.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.Composition.Hosting.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.Composition.Runtime.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.Drawing.Common.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.Formats.Asn1.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.IO.Pipelines.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.Memory.Data.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.Runtime.Caching.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.Security.Permissions.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.Text.Json.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\System.Windows.Extensions.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+M:\DEPI - Intern\C#\RESTful API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\scopedcss\bundle\RESTful API.styles.css
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\staticwebassets.build.json
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\staticwebassets.development.json
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\staticwebassets\msbuild.RESTful API.Microsoft.AspNetCore.StaticWebAssets.props
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\staticwebassets\msbuild.RESTful API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\staticwebassets\msbuild.build.RESTful API.props
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RESTful API.props
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RESTful API.props
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\staticwebassets.pack.json
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\RESTful .4C8046D4.Up2Date
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\RESTful API.dll
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\refint\RESTful API.dll
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\RESTful API.pdb
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\RESTful API.genruntimeconfig.cache
+M:\DEPI - Intern\C#\RESTful API\obj\Debug\net8.0\ref\RESTful API.dll
